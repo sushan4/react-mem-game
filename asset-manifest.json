@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-mem-game/static/css/main.649e1ad6.chunk.css",
+    "main.js": "/react-mem-game/static/js/main.a139e6d8.chunk.js",
+    "main.js.map": "/react-mem-game/static/js/main.a139e6d8.chunk.js.map",
+    "runtime-main.js": "/react-mem-game/static/js/runtime-main.7a43a38c.js",
+    "runtime-main.js.map": "/react-mem-game/static/js/runtime-main.7a43a38c.js.map",
+    "static/js/2.5320fd71.chunk.js": "/react-mem-game/static/js/2.5320fd71.chunk.js",
+    "static/js/2.5320fd71.chunk.js.map": "/react-mem-game/static/js/2.5320fd71.chunk.js.map",
+    "index.html": "/react-mem-game/index.html",
+    "static/css/main.649e1ad6.chunk.css.map": "/react-mem-game/static/css/main.649e1ad6.chunk.css.map",
+    "static/js/2.5320fd71.chunk.js.LICENSE.txt": "/react-mem-game/static/js/2.5320fd71.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a43a38c.js",
+    "static/js/2.5320fd71.chunk.js",
+    "static/css/main.649e1ad6.chunk.css",
+    "static/js/main.a139e6d8.chunk.js"
+  ]
+}
