@@ -3,8 +3,8 @@ import Card from './Card'
 
 function Cards(){
     const [items, setItems] = useState([
-        { id: 1, img: './public/img/html.png', stat: "" },
-        { id: 1, img: './public/img/html.png', stat: "" },
+        { id: 1, img: './img/html.png', stat: "" },
+        { id: 1, img: './img/html.png', stat: "" },
         { id: 2, img: './img/css.png', stat: "" },
         { id: 2, img: './img/css.png', stat: "" },
         { id: 3, img: './img/js.png', stat: "" },
