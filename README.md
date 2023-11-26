@@ -1,5 +1,5 @@
 # React Memory Game
-![React Memory Game](public/img/game-preview.png)
+![React Memory Game](./public/img/game-preview.png)
 Welcome to the React Memory Game! This project is a simple memory game built with React, where players need to match pairs of cards. Have fun testing your memory!
 
 ## How to Play
